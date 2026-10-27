@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/mrpintu06/LeetCode-75/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/mrpintu06/LeetCode-75/tree/master/0392-is-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mrpintu06/LeetCode-75/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/mrpintu06/LeetCode-75/tree/master/0338-counting-bits) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/mrpintu06/LeetCode-75/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Binary Search
 |  |
