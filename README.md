@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mrpintu06/LeetCode-75/tree/master/0011-container-with-most-water) |
+| [0136-single-number](https://github.com/mrpintu06/LeetCode-75/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/mrpintu06/LeetCode-75/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/mrpintu06/LeetCode-75/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/mrpintu06/LeetCode-75/tree/master/0334-increasing-triplet-subsequence) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/mrpintu06/LeetCode-75/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/mrpintu06/LeetCode-75/tree/master/0338-counting-bits) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/mrpintu06/LeetCode-75/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Binary Search
